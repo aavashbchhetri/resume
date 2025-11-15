@@ -292,7 +292,7 @@ footer {
   padding: 10px 15px;
   border-radius: 50%;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 30px;
   z-index: 1000;
   transition: background-color 0.3s ease;
 }
